@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com)
-- [Hello World](https://www.youtube.com)
+- [Active Directory Home Lab]([https://www.youtube.com](https://github.com/DaniKandie/ActiveDirectoryLab))
+- [Hello World]([https://www.youtube.com](https://github.com/DaniKandie/ActiveDirectoryLab))
 
 <h2>Certifications</h2>
 
